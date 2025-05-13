@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋, I am Sri Sahithi
 
-<!--
-**SriSahithi47/SriSahithi47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Full Stack Developer | React | Java | AWS
+- 🎓 MS in Computer Science @ Missouri State University
+- 🧠 Passionate about AI, ML, and Reinforcement Learning
+- ✍️ Currently building AI-powered solutions and full stack apps
+- 🌎 Based in Springfield, MO | Open to Remote & Relocation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+`Java` `React` `Python` `Flask` `HTML/CSS` `MongoDB` `MySQL` `AWS` `Git`
+
+---
+
+### 🔭 Projects Coming Soon...
+Stay tuned for my latest work in AI, web dev, and cloud computing!
